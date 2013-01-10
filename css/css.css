@@ -10,15 +10,15 @@ body {
 h1 {
 	color: #000000;
 	background-color: #E8D9C9;
-	padding: 2px;
+	padding: 0px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-family: Edwardian Script ITC, Noteworthy;
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: bold;
 	text-align: center;
 	border: 1px solid black;
-	border-radius: 5px;
+	border-radius: 10px;
 	box-shadow: 1px 1px 5px #A8AFB4;
 }
 
@@ -30,8 +30,14 @@ h2 {
 	margin-bottom: 5px;
 }
 
+a {
+	vertical-align: center;
+}
+
 nav {
 	text-align: center;
+	margin-top: 15px;
+	margin-bottom: -15px;
 }
 
 input[type="text"] {
@@ -49,7 +55,7 @@ input[type="search"] {
 }
 
 img {
-	margin-left: -10px;
+	margin-left: 0px;
 }
 
 ul {
@@ -85,6 +91,8 @@ button {
 fieldset {
 	color: #000000;
 	background-color: #E8D9C9;
+	margin-top: -20px;
+	margin-bottom: 10px;
 	border-radius: 5px;
 	box-shadow: 1px 1px 3px #B2BABF;
 }
