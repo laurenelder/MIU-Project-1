@@ -10,7 +10,9 @@ body {
 h1 {
 	color: #000000;
 	background-color: #E8D9C9;
-	padding: 10px;
+	padding: 2px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	font-family: Edwardian Script ITC, Noteworthy;
 	font-size: 60px;
 	font-weight: bold;
@@ -23,9 +25,9 @@ h1 {
 h2 {
 	font-family: Edwardian Script ITC, Noteworthy;
 	font-weight: normal;
-	font-size: 38px;
-	margin-bottom: -5px;
-	margin-left: 10px;
+	font-size: 34px;
+	text-align: center;
+	margin-bottom: 5px;
 }
 
 nav {
@@ -42,7 +44,8 @@ input[type="search"] {
 	border: 1px solid black;
 	padding: 5px;
 	margin-left: 2px;
-	width: 170px;
+	height: 35px;
+	width: 200px;
 }
 
 img {
@@ -56,12 +59,13 @@ ul {
 p {
 	font-family: Lucida Calligraphy, Noteworthy;
 	font-size: 16px;
-	margin-bottom: -0.05px;
-	text-align: center;
+	margin-bottom: 5px;
+	text-align: left;
 }
 
 div {
 	display: inline;
+	margin-top: 10px;
 	margin-left: 10px;
 	font-size: 16px;
 	font-weight: bold;
@@ -72,7 +76,7 @@ button {
 	font-family: Lucida Calligraphy, Noteworthy;
 	font-size: 14px;
 	padding: 5px;
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 	height: 35px;
 	width: 300px;
 	vertical-align: center;
