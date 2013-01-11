@@ -1,7 +1,7 @@
 // Devin "Lauren" Elder
-// VFW Term 1212
-// Project 4
-// 12/12/2012
+// MIU Term 1301
+// Project 1
+// 01/10/2013
 
 window.addEventListener("DOMContentLoaded", function() {
 // Global Variables
